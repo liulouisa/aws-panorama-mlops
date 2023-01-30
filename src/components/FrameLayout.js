@@ -677,7 +677,7 @@ class FrameLayout extends React.Component {
         ]
 
         const _header = <Header
-            title={t("Panorama MLOPS Demo")}
+            title={t("Industry Vision Solutions")}
             rightContent={
 
                 <Box alignItems="center" display="flex" >
